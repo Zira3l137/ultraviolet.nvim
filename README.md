@@ -9,7 +9,7 @@
   </a>
 </p>
 
-A dark Neovim colorscheme ported from the [ultraViolet](https://github.com/gurvirsingh/ultraViolet) Zed theme by Gurvir.  
+A dark Neovim colorscheme ported from the [ultraViolet](https://github.com/gurvirr/ultraViolet) Zed theme by Gurvir.  
 Deep near-black backgrounds, indigo/violet keywords, periwinkle fields, pink errors, teal strings.
 
 ## Palette
