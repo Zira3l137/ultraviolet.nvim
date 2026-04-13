@@ -1,5 +1,14 @@
 # ultraviolet.nvim
 
+<p align="center">
+  <a href="images/1.png">
+    <img src="images/1.png" width="45%" />
+  </a>
+  <a href="images/2.png">
+    <img src="images/2.png" width="45%" />
+  </a>
+</p>
+
 A dark Neovim colorscheme ported from the [ultraViolet](https://github.com/gurvirsingh/ultraViolet) Zed theme by Gurvir.  
 Deep near-black backgrounds, indigo/violet keywords, periwinkle fields, pink errors, teal strings.
 
